@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <contact>
+        <id>1</id>
+        <name>marwan mohamed abd elaal</name>
+        <phone>01270256280</phone>
+        <address>omar street ahmed abo sliman</address>
+        <email>marawnmohamed9876@gmail.com</email>
+    </contact>
+    <contact>
+        <id>2</id>
+        <name>marwan mohamed abd elaal</name>
+        <phone>01270256280</phone>
+        <address>omar street ahmed abo sliman</address>
+        <email>marawnmohamed9876@gmail.com</email>
+    </contact>
+    <contact>
+        <id>3</id>
+        <name>marwan mohamed abd elaal</name>
+        <phone>01270256280</phone>
+        <address>omar street ahmed abo sliman</address>
+        <email>marawnmohamed9876@gmail.com</email>
+    </contact>
+    
+    <contact>
+        <id>4</id>
+        <name>marwan mohamed abd elaal</name>
+        <phone>01270256280</phone>
+        <address>omar street ahmed abo sliman</address>
+        <email>marawnmohamed9876@gmail.com</email>
+    </contact>
+    <contact>
+        <id>5</id>
+        <name>marwan mohamed abd elaal</name>
+        <phone>01270256280</phone>
+        <address>omar street ahmed abo sliman</address>
+        <email>marawnmohamed9876@gmail.com</email>
+    </contact>
+</contacts>
